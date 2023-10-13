@@ -1,13 +1,15 @@
 export const team = [
 	{
 		people: "Gabby",
-		classe: "B3 Info",
+		classe: "B3 Infra",
 		role: "Back-end",
+		img: "../src/assets/Gabby.jpg",
 	},
 	{
 		people: "Gaël",
-		classe: "M1 Info",
-		role: "Data-analyst",
+		classe: "B3 Dev",
+		role: "Back-end",
+		img: "../src/assets/gael.png",
 	},
   {
 		people: "Siweil",
@@ -17,7 +19,7 @@ export const team = [
 	},
 	{
 		people: "Moustapha",
-		classe: "M1 Info",
+		classe: "B3 Dev",
 		img: "../src/assets/mousse.jpg",
 		role: "Front-end",
 	},

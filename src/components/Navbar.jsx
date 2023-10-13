@@ -27,13 +27,19 @@ const Navbar = () => {
 				<h1 className="w-full text-xl font-bold text-primary m-4">BeatTheBeat</h1>
 				<ul className="p-4 uppercase ">
 					<li className="p-4 border-b border-gray-600 ">
-						<span className="hover:ml-2 duration-200 cursor-pointer">Accueil</span>
+						<a href="#hero">
+							<span className="hover:ml-2 duration-200 cursor-pointer">Accueil</span>
+						</a>
 					</li>
 					<li className="p-4 border-b border-gray-600 ">
-						<span className="hover:ml-2 duration-200 cursor-pointer">Team</span>
+						<a href="#team">
+							<span className="hover:ml-2 duration-200 cursor-pointer">Team</span>
+						</a>
 					</li>
 					<li className="p-4 border-b border-gray-600 ">
-						<span className="hover:ml-2 duration-200 cursor-pointer">Projet</span>
+						<a href="#projet">
+							<span className="hover:ml-2 duration-200 cursor-pointer">Projet</span>
+						</a>
 					</li>
 				</ul>
 			</div>
