@@ -19,7 +19,7 @@ export const team = [
 	},
 	{
 		people: "Moustapha",
-		classe: "B3 Dev",
+		classe: "M1 Info",
 		img: "../src/assets/mousse.jpg",
 		role: "Front-end",
 	},
